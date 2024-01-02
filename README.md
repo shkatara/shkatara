@@ -8,7 +8,7 @@
 - Graduate of Computer Science and Engineering :mortar_board:
 - Guitarist (in my free time) :art:
 
-**Wanna know more about me?** [My LinkedIn Profile](https://linkedin.com/in/shubhamkatara)
+**Wanna know more about me?** [Connect here ;)](https://linkedin.com/in/shubhamkatara)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
