@@ -6,7 +6,7 @@
 
 - A passionate Platform and DevOps Engineer :computer:
 - Computer Science Engineer Graduate :mortar_board:
-- Guitarist (in my free time) :art:
+- Guitarist (in my free time) 🎸:
 
 **Wanna know more about me?** [Connect here ;)](https://linkedin.com/in/shubhamkatara)
 
