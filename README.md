@@ -4,8 +4,8 @@
 
 <br>
 
-- A passionate Self-taught Cloud DevOps Engineer :computer:
-- Graduate of Computer Science and Engineering :mortar_board:
+- A passionate Platform and DevOps Engineer :computer:
+- Computer Science Engineer Graduate :mortar_board:
 - Guitarist (in my free time) :art:
 
 **Wanna know more about me?** [Connect here ;)](https://linkedin.com/in/shubhamkatara)
@@ -14,7 +14,7 @@
 
 - :cloud: **Cloud:** Amazon Web Services, Microsoft Azure Basics, Google Cloud Platform 
 - :whale: **Containerization:** K3S, Kubernetes, Red Hat OpenShift, VMWare Tanzu Kubernetes Grid, Rancher, Harbor, Docker + Azure Services (AKS, ACR, ACI, WebApps for Containers)
-- :page_facing_up: **Scripting:** Python, JSON
+- :page_facing_up: **Scripting:** Python, GoLang
 - :computer: **CI/CD & DevOps:** Azure DevOps, Confluence (Jira, Bitbucket), GitLab, Terraform, Jenkins, CloudBolt, Bamboo, ArgoCD, Ansible, Terraform
 
 ---
