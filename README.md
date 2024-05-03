@@ -4,7 +4,7 @@
 
 <br>
 
-- A passionate Platform and DevOps Engineer :computer:
+- A passionate Platform and DevOps Engineer building utilities in golang :computer:
 - Computer Science Engineer Graduate :mortar_board:
 - Guitarist (in my free time) 🎸
 
