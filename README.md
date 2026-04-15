@@ -1,31 +1,54 @@
-<h1 align="center"><b>Hi, I'm Shubham</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 I'm Shubham Katara
 
-## **About me**
+### **Senior Platform Engineer @ trivago | Hybrid Cloud Architect**
 
-<br>
-
-- A passionate Platform and DevOps Engineer building utilities in golang :computer:
-- Computer Science Engineer Graduate :mortar_board:
-- Guitarist (in my free time) 🎸
-
-**Wanna know more about me?** [Connect here ;)](https://linkedin.com/in/shubhamkatara)
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-- :cloud: **Cloud:** Amazon Web Services, Microsoft Azure Basics, Google Cloud Platform 
-- :whale: **Containerization:** K3S, Kubernetes, Red Hat OpenShift, VMWare Tanzu Kubernetes Grid, Rancher, Harbor, Docker + Azure Services (AKS, ACR, ACI, WebApps for Containers)
-- :page_facing_up: **Scripting:** Python, GoLang
-- :computer: **CI/CD & DevOps:** Azure DevOps, Confluence (Jira, Bitbucket), GitLab, Terraform, Jenkins, CloudBolt, Bamboo, ArgoCD, Ansible, Terraform
+I specialize in building and scaling resilient, **Kubernetes-native platforms** that bridge the gap between on-premise datacenters and the public cloud. Currently, I'm part of the **Hybrid Platform Team at trivago**, where I architect systems that seamlessly integrate **Harvester (SUSE)** on-prem environments with **Google Cloud Platform (GCP)**.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+### 🏗️ What I'm Working On
 
-<div align="center">
-
-<a href="https://github.com/shkatara">
-  <img src="https://github-readme-stats.vercel.app/api?username=shkatara&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="450"/>
-</a>
-</div>
+- **Hybrid Cloud Synergy:** Deep-diving into the orchestration of workloads across disparate environments, leveraging **Workload Identity Federation** to eliminate secrets and enhance security.
+- **Kubernetes-Native Tooling:** Building custom controllers and operators in **Go** to automate infrastructure lifecycle management.
+- **Infrastructure as Code:** Managing complex hybrid footprints using **Terraform** and GitOps principles.
+- **Observability & Scaling:** Optimizing performance with Prometheus and implementing event-driven autoscaling with **KEDA**. 
 
 ---
+
+### ✍️ Content & Community
+
+I'm passionate about sharing technical knowledge and demystifying complex cloud-native concepts.
+
+- **Kubesimplify:** I create deep-dive content on building **Kubernetes-native controllers** and [applications](https://www.youtube.com/watch?v=0PyNl-iE5G0).
+- **freeCodeCamp:** Check out my full course on [Building Kubernetes Operators](https://www.youtube.com/watch?v=odP153inZUo) on their YouTube channel.
+- **Medium:** I write about SRE, DevOps, and the "Illusion" of Hybrid Cloud at [medium.com/@shubham.katara59](https://medium.com/@shubham.katara59).
+
+---
+
+### 🛠️ Featured Open Source Projects
+
+- **[hybrid](https://github.com/shkatara/hybrid):** Modules and policies for implementing Workload Identity Federation between on-prem K8s and GCP.
+- **[kubernetes-ec2-operator](https://github.com/shkatara/kubernetes-ec2-operator):** A Go-based operator for managing AWS EC2 instances within a Kubernetes cluster.
+- **[go-nfs-prometheus-exporter](https://github.com/shkatara/go-nfs-prometheus-exporter):** A lightweight Prometheus exporter for NFS metrics written in Go.
+- **[kubernetes-descheduler](https://github.com/shkatara/kubernetes-descheduler):** Exploring and extending descheduling logic for optimized cluster utilization.
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages:** Go, Python, Bash
+- **Orchestration:** Kubernetes (CAPI, KEDA, Kyverno)
+- **Infrastructure:** Terraform, Harvester (SUSE), GCP, AWS, Azure
+- **Observability:** Prometheus, Grafana, Thanos
+- **CI/CD:** ArgoCD, GitHub Actions
+
+---
+
+### 📫 Let's Connect
+
+- **Medium:** [@shubham.katara59](https://medium.com/@shubham.katara59)
+- **YouTube:** [freeCodeCamp Course](https://www.youtube.com/watch?v=odP153inZUo)
+- **LinkedIn:** [shubham-katara](https://www.linkedin.com/in/shubham-katara/)
+
+---
+*"The best platform is the one that disappears for the developer."*
