@@ -27,7 +27,7 @@ I'm passionate about sharing technical knowledge and demystifying complex cloud-
 
 ### 🛠️ Featured Open Source Projects
 
-- **[hybrid](https://github.com/shkatara/hybrid):** Modules and policies for implementing Workload Identity Federation between on-prem K8s and GCP.
+- **[Hybrid-Cloud-Platform]([https://github.com/shkatara/hybrid](https://github.com/shkatara/hybrid-platform-gcp-workload-identity-federation)):** Modules and policies for implementing Workload Identity Federation between on-prem K8s and GCP to create a hybrid cloud platform.
 - **[kubernetes-ec2-operator](https://github.com/shkatara/kubernetes-ec2-operator):** A Go-based operator for managing AWS EC2 instances within a Kubernetes cluster.
 - **[go-nfs-prometheus-exporter](https://github.com/shkatara/go-nfs-prometheus-exporter):** A lightweight Prometheus exporter for NFS metrics written in Go.
 - **[kubernetes-descheduler](https://github.com/shkatara/kubernetes-descheduler):** Exploring and extending descheduling logic for optimized cluster utilization.
