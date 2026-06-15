@@ -20,9 +20,8 @@ I specialize in building and scaling resilient, **Kubernetes-native platforms** 
 I'm passionate about sharing technical knowledge and demystifying complex cloud-native concepts.
 
 - **Kubesimplify:** I create deep-dive content on building **Kubernetes-native controllers** and [applications](https://www.youtube.com/watch?v=0PyNl-iE5G0).
-- **freeCodeCamp:** Check out my full course on [Building Kubernetes Operators](https://www.youtube.com/watch?v=odP153inZUo) on their YouTube channel.
-- **Medium:** I write about SRE, DevOps, and the "Illusion" of Hybrid Cloud at [medium.com/@shubham.katara59](https://medium.com/@shubham.katara59).
-
+- **freeCodeCamp:** Check out my full course on [Building Kubernetes Operators](https://www.youtube.com/watch?v=odP153inZUo) on their YouTube channel. Also the blog about [Creating a unified identity across onprem and Google Cloud](https://www.freecodecamp.org/news/build-a-hybrid-cloud-platform-with-google-cloud-services-and-on-premise-k8s-infra) on their publication.
+- **SREDAY:** I gave a talk about the unified identity fabric at [SREDAY](https://www.linkedin.com/posts/kubernetes-cloudsecurity-platformengineering-ugcPost-7470871717624819712-I1Kq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABG8DFsBG6-zOU1utlQPaE0EspWVUNvDncI)
 ---
 
 ### 🛠️ Featured Open Source Projects
@@ -48,7 +47,7 @@ I'm passionate about sharing technical knowledge and demystifying complex cloud-
 
 - **Medium:** [@shubham.katara59](https://medium.com/@shubham.katara59)
 - **YouTube:** [freeCodeCamp Course](https://www.youtube.com/watch?v=odP153inZUo)
-- **LinkedIn:** [shubham-katara](https://www.linkedin.com/in/shubham-katara/)
+- **LinkedIn:** [shubham-katara](https://www.linkedin.com/in/shubhamkatara/)
 
 ---
 *"The best platform is the one that disappears for the developer."*
